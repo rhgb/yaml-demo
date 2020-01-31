@@ -1,0 +1,11 @@
+# 就把名字和值自然地用冒号隔开
+someWord: abcdefg
+
+# 名字甚至可以有空格（但不推荐）
+input number: 123
+
+# 也可以定义列表
+words:
+  - apple
+  - orange
+  - lemon
